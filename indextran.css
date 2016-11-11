@@ -1,0 +1,60 @@
+html {
+     height: 100%;
+   }
+   body {
+      width: 75%;
+
+   }
+
+   header {
+       background-color: orange;
+       padding: 35px;
+       font-size: 25;
+       display: block;
+       width: 100%;
+       text-align: left;
+
+   }
+   nav {
+       float: right;
+   }
+   nav ul {
+       padding: ;
+       float: right;
+       border-bottom: 30px;
+       list-style-type: none;
+   }
+   nav li {
+       float: right;
+   }
+   nav li a {
+       display: block;
+       height: 35px;
+       padding: 12px 18px 8px 18px;
+       vertical-align: middle;
+   }
+   a {
+       color: ;
+   }
+   section {
+       width: 73%;
+       display: inline-block;
+       float: left;
+   }
+   aside {
+       width: 17%;
+       display: inline-block;
+       background-color:;
+       padding:;
+       min-height: 100%;
+   }
+   aside ul {
+       list-style-type: none;
+   }
+   footer {
+       width: 790px;
+       background-color:;
+       color:;
+       clear: both;
+       display: block;
+   }

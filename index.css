@@ -1,0 +1,119 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: #000000;
+       padding-left: 35px;
+       padding-right: 35px;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       font-style: normal;
+       font-family: 'cinzel', serif;
+       color: #fff
+    }
+    header {
+        background-color:#000000;
+        size: absolute;
+        font-size: 250px;
+        font-style: normal;
+        font-family: 'Amatic SC',monospace;
+
+    }
+
+    p {
+      text-align:justify;
+      font-size: 16px;
+      padding-left: 10px;
+    }
+
+    nav {
+        line-height:20px;
+        background-color:#000000;
+        width:125px;
+        display: inline;
+        vertical-align: top;
+    }
+
+    nav ul {
+        list-style-type:circle;
+        none;
+    }
+    a {
+        color: #150EFF;
+        font-size: 18px;
+
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+        font-size: 20px;
+        font-style: normal;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:#;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:center;;
+        padding:5px;
+        display: block;
+    }
+    h1 {
+      font-size: 40px;
+      font-weight: normal;
+    fon
+    }
+    h2 {
+      font-size: 30px;
+      font-weight: normal;
+    }
+    h3 {
+      font-size: 24px;
+      font-weight: normal;
+    }
+    input {
+      padding: 10px;
+      font-size: 20px;
+    }
+.searchbar {
+  font-size: 20px;
+
+}
+.whoweare {
+  font-size: 30px;
+  font-style: normal;
+}
+.subcribenav {
+  position:;
+  font-size: 30px;
+  font-style: normal;
+
+}
+.images {
+  position:relative;
+  /*width:50%; height:50%; background:url(http://www.seattlefoodtruck.com/schedule/downtown-seattle/) 10 10px;*/
+}
+
+.foodtruck {
+  max-width: 60px;
+  max-height: 60px;
+}
+.headertitle {
+  font-size: 150px;
+  position: absolute;
+  top: 160px;
+  left: 40px;
+  width: 100%;
+}
